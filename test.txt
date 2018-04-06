@@ -10,3 +10,5 @@ queding buqueding
 
 
 さようなら
+
+もう一度戻る
